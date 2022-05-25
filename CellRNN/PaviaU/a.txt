@@ -1,1 +1,2 @@
-
+There is a file size limit 25MB.
+You can download PaviaU.mat and PaviaU_gt.mat placing here.
